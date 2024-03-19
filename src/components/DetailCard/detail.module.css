@@ -1,0 +1,22 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    padding: 20px;
+    font-size: 30px;
+    width: 700px;
+    background: #003366;
+    border-radius: 20px;
+}
+
+.card table{
+    width: 100%;
+}
+
+.card tr{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 2px black;
+}
+
+.card td{
+    padding: 10px;
+}
